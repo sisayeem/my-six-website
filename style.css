@@ -1,0 +1,15 @@
+<style>
+h1{background-color: aqua;}
+section{
+    text-align: center;
+    height: 50%;
+    width: 20%;
+}
+.halka{
+    border: 1px dotted green;
+    margin: 1px;
+   width: 30%;
+    float: left;
+}
+
+</style>
